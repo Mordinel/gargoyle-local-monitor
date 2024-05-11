@@ -1,0 +1,9 @@
+[package]
+name = "gargoyle-local-monitor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gargoyle = "0.1.5"
+log = "0.4.21"
+sysinfo = "0.30.12"
